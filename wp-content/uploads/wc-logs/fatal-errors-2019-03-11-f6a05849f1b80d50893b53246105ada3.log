@@ -1,0 +1,4 @@
+2019-03-11T04:38:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\dakshinkali\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpPostStore_PostStatusRegistrar.php on line 7
+
+2019-03-11T05:23:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\dakshinkali\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-post-types.php on line 9
+

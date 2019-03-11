@@ -1,0 +1,445 @@
+
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Brizy
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Media "favicon-free-img" already exists.
+Media "logo@2x-free-img" already exists.
+Media "logo-free-img" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "My Account" already exists.
+Media "mens-fashion-free-img" already exists.
+Media "womens-fashion-free-img" already exists.
+Media "shoes-fashion-free-omg" already exists.
+Media "accessories-fashion-free-img" already exists.
+Custom CSS "astra" already exists.
+Media "lemon-bag-1-free-img" already exists.
+Media "lemon-bag-2-free-img" already exists.
+Media "lemon-bag-3-free-img" already exists.
+Media "bright-purse-1-free-img" already exists.
+Media "bright-purse-2-free-img" already exists.
+Media "bright-purse-3-free-img" already exists.
+Media "black-over-the-shoulder-bag-1-free-img" already exists.
+Media "black-over-the-shoulder-bag-free-img" already exists.
+Media "light-brown-clutch-1-free-img" already exists.
+Media "light-brown-clutch-2-free-img" already exists.
+Media "blue-wind-breaker-1-free-img" already exists.
+Media "blue-wind-breaker-2-free-img" already exists.
+Media "aqua-wind-breaker-1-free-img" already exists.
+Media "aqua-wind-breaker-2-free-img" already exists.
+Media "aqua-wind-breaker-3-free-img" already exists.
+Media "green-wind-breaker-1-free-img" already exists.
+Media "green-wind-breaker-2-free-img" already exists.
+Media "aqua-tshirt-free-img" already exists.
+Media "blue-tshirt-free-img" already exists.
+Media "dark-green-tshirt-free-img" already exists.
+Media "dark-purple-tshirt-free-img" already exists.
+Media "green-tshirt-free-img" already exists.
+Media "purple-tshirt-free-img" already exists.
+Media "buddha-bracelet-side-free-img" already exists.
+Media "buddha-bracelet-top-free-img" already exists.
+Media "anchor-bracelet-black-free-img" already exists.
+Media "anchor-bracelet-blue-free-img" already exists.
+Media "anchor-bracelet-brown-free-img" already exists.
+Media "anchor-bracelet-red-free-img" already exists.
+Media "boho-bangle-bracelet-side-free-img" already exists.
+Media "boho-bangle-bracelet-top-free-img" already exists.
+Media "about-banner-free-img" already exists.
+Template "Featured section with button" already exists.
+Media "black-sleevless-1-free-img" already exists.
+Media "black-sleevless-2-free-img" already exists.
+Media "blue-sleev-tshirt-1-free-img" already exists.
+Media "blue-sleev-tshirt-2-free-img" already exists.
+Media "brown-basic-top-1-free-img" already exists.
+Media "brown-basic-top-2-free-img" already exists.
+Media "white-basic-top-1-free-img" already exists.
+Media "white-basic-top-2-free-img" already exists.
+Media "white-sleevless-1-free-img" already exists.
+Media "white-sleevless-2-free-img" already exists.
+Media "white-top-1-free-img" already exists.
+Media "white-top-2-free-img" already exists.
+Media "yellow-basic-top-1-free-img" already exists.
+Media "yellow-basic-top-2-free-img" already exists.
+Media "blue-basic-jeans-1-free-img" already exists.
+Media "blue-basic-jeans-2-free-img" already exists.
+Media "blue-jeans-1-free-img" already exists.
+Media "blue-jeans-2-free-img" already exists.
+Media "gray-basic-jeans-1-free-img" already exists.
+Media "gray-basic-jeans-2-free-img" already exists.
+Media "torn-jeans-1-free-img" already exists.
+Media "torn-jeans-2-free-img" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Media "spring-jacket-1-free-img" already exists.
+Media "spring-jacket-2-free-img" already exists.
+Media "black-shoes-green-led-1-free-img" already exists.
+Media "black-shoes-green-led-2-free-img" already exists.
+Media "brown-blazer-jacket-1-free-img" already exists.
+Media "brown-blazer-jacket-2-free-img" already exists.
+Media "brown-blazer-jacket-3-free-img" already exists.
+Media "basic-blue-jeans-1-free-img" already exists.
+Media "basic-blue-jeans-2-free-img" already exists.
+Media "black-washed-1-free-img" already exists.
+Media "black-washed-2-free-img" already exists.
+Media "blue-denim-1-free-img" already exists.
+Media "blue-denim-2-free-img" already exists.
+Media "torn-jeans-1-free-img" already exists.
+Media "torn-jeans-2-free-img" already exists.
+Media "torn-jeans-3-free-img" already exists.
+Media "blue-men-shoes-1-free-img" already exists.
+Media "blue-men-shoes-2-free-img" already exists.
+Media "brown-men-shoes-1-free-img" already exists.
+Media "brown-men-shoes-2-free-img" already exists.
+Media "gray-men-shoes-1-free-img" already exists.
+Media "gray-men-shoes-2-free-img" already exists.
+Media "white-shoes-with-led-1-free-img" already exists.
+Media "white-shoes-with-led-2-free-img" already exists.
+Media "home-banner1-free-img" already exists.
+Media "brandstore-astra-facebook-yoast-free-img" already exists.
+Page "Home" already exists.
+Page "Store" already exists.
+Page "Cart" already exists.
+Page "Checkout" already exists.
+Page "My account" already exists.
+Page "About" already exists.
+Imported "Lemon Bag" (Product)
+Post 79 remapped to 426
+Variations "Lemon Bag - Green" already exists.
+Variations "Lemon Bag - Orange" already exists.
+Variations "Lemon Bag - Yellow" already exists.
+Imported "Bright Purse With Chain" (Product)
+Post 86 remapped to 427
+Variations "Bright Purse With Chain - Yellow" already exists.
+Variations "Bright Purse With Chain - Pink" already exists.
+Variations "Bright Purse With Chain - Red" already exists.
+Imported "Black Over-the-shoulder Handbag" (Product)
+Post 95 remapped to 428
+Imported "Light Brown Clutch" (Product)
+Post 109 remapped to 429
+Imported "Blue Wind Breaker" (Product)
+Post 112 remapped to 430
+Imported "Green Wind Breaker" (Product)
+Post 115 remapped to 431
+Imported "Aqua Wind Breaker" (Product)
+Post 121 remapped to 432
+Imported "DNK Tshirt" (Product)
+Post 132 remapped to 433
+Imported "DNK Cross Tshirt" (Product)
+Post 142 remapped to 434
+Imported "Buddha Bracelet" (Product)
+Post 157 remapped to 435
+Imported "Anchor Bracelet" (Product)
+Post 160 remapped to 436
+Variations "Anchor Bracelet - Black" already exists.
+Variations "Anchor Bracelet - Blue" already exists.
+Variations "Anchor Bracelet - Brown" already exists.
+Variations "Anchor Bracelet - Red" already exists.
+Imported "Boho Bangle Bracelet" (Product)
+Post 169 remapped to 437
+Imported "White Top" (Product)
+Post 194 remapped to 438
+Imported "Yellow Basic Top" (Product)
+Post 209 remapped to 439
+Imported "White Sleevless Top" (Product)
+Post 210 remapped to 440
+Imported "White Basic Sleevless Top" (Product)
+Post 211 remapped to 441
+Imported "Brown basic Top" (Product)
+Post 212 remapped to 442
+Variations "Brown basic Top - M" already exists.
+Variations "Brown basic Top - L" already exists.
+Variations "Brown basic Top - XL" already exists.
+Variations "White Basic Sleevless Top - M" already exists.
+Variations "White Basic Sleevless Top - L" already exists.
+Variations "White Basic Sleevless Top - XL" already exists.
+Variations "White Sleevless Top - M" already exists.
+Variations "White Sleevless Top - L" already exists.
+Variations "White Sleevless Top - XL" already exists.
+Variations "Yellow Basic Top - M" already exists.
+Variations "Yellow Basic Top - L" already exists.
+Variations "Yellow Basic Top - XL" already exists.
+Variations "White Top - M" already exists.
+Variations "White Top - L" already exists.
+Variations "White Top - XL" already exists.
+Imported "Basic Blue Jeans" (Product)
+Post 229 remapped to 443
+Variations "Basic Blue Jeans - 30" already exists.
+Variations "Basic Blue Jeans - 32" already exists.
+Variations "Basic Blue Jeans - 34" already exists.
+Variations "Basic Blue Jeans - 36" already exists.
+Imported "Torn Blue Jeans" (Product)
+Post 242 remapped to 444
+Variations "Torn Blue Jeans - 30" already exists.
+Variations "Torn Blue Jeans - 32" already exists.
+Variations "Torn Blue Jeans - 34" already exists.
+Variations "Torn Blue Jeans - 36" already exists.
+Imported "Basic Gray Blue Jeans" (Product)
+Post 247 remapped to 445
+Variations "Basic Gray Blue Jeans - 30" already exists.
+Variations "Basic Gray Blue Jeans - 32" already exists.
+Variations "Basic Gray Blue Jeans - 34" already exists.
+Variations "Basic Gray Blue Jeans - 36" already exists.
+Imported "Blue Denim Jeans" (Product)
+Post 252 remapped to 446
+Variations "Blue Denim Jeans - 30" already exists.
+Variations "Blue Denim Jeans - 32" already exists.
+Variations "Blue Denim Jeans - 34" already exists.
+Variations "Blue Denim Jeans - 36" already exists.
+Navigation Menu Item "" already exists.
+Variations "DNK Cross Tshirt - M, Aqua" already exists.
+Variations "DNK Cross Tshirt - M, Dark Green" already exists.
+Imported "Black Jacket" (Product)
+Post 307 remapped to 447
+Imported "DNK Black Shoes Green LED" (Product)
+Post 316 remapped to 448
+Imported "Brown Blazer Jacket" (Product)
+Post 319 remapped to 449
+Imported "Basic Blue Jeans" (Product)
+Post 324 remapped to 450
+Imported "Black Washed Jeans" (Product)
+Post 340 remapped to 451
+Imported "Blue Denim Jeans" (Product)
+Post 345 remapped to 452
+Imported "Torn Blue Jeans" (Product)
+Post 349 remapped to 453
+Imported "DNK Blue Sport Shoes" (Product)
+Post 360 remapped to 454
+Imported "DNK Brown Shoes" (Product)
+Post 361 remapped to 455
+Imported "DNK Gray Shoes" (Product)
+Post 362 remapped to 456
+Imported "DNK White Shoes with LED" (Product)
+Post 375 remapped to 457
+Navigation Menu Item "" already exists.
+Navigation Menu Item "About Us" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Page "Contact Us" already exists.
+Navigation Menu Item "" already exists.
+Navigation Menu Item "" already exists.
+Imported "GET15OFF" (Coupon)
+Post 104 remapped to 458
+Variations "DNK Cross Tshirt - M, Green" already exists.
+Variations "DNK Cross Tshirt - M, Purple" already exists.
+Variations "DNK Cross Tshirt - L, Aqua" already exists.
+Variations "DNK Cross Tshirt - L, Dark Green" already exists.
+Variations "DNK Cross Tshirt - L, Green" already exists.
+Variations "DNK Cross Tshirt - L, Purple" already exists.
+Variations "DNK Cross Tshirt - XL, Aqua" already exists.
+Variations "DNK Cross Tshirt - XL, Dark Green" already exists.
+Variations "DNK Cross Tshirt - XL, Green" already exists.
+Variations "DNK Cross Tshirt - XL, Purple" already exists.
+Variations "DNK Tshirt - M, Blue" already exists.
+Variations "DNK Tshirt - M, Dark Purple" already exists.
+Variations "DNK Tshirt - L, Blue" already exists.
+Variations "DNK Tshirt - L, Dark Purple" already exists.
+Variations "DNK Tshirt - XL, Blue" already exists.
+Variations "DNK Tshirt - XL, Dark Purple" already exists.
+Variations "Basic Blue Jeans - 32" already exists.
+Variations "Basic Blue Jeans - 34" already exists.
+Variations "Basic Blue Jeans - 36" already exists.
+Variations "Basic Blue Jeans - 38" already exists.
+Variations "Black Washed Jeans - 32" already exists.
+Variations "Black Washed Jeans - 34" already exists.
+Variations "Black Washed Jeans - 36" already exists.
+Variations "Black Washed Jeans - 38" already exists.
+Variations "Blue Denim Jeans - 32" already exists.
+Variations "Blue Denim Jeans - 34" already exists.
+Variations "Blue Denim Jeans - 36" already exists.
+Variations "Blue Denim Jeans - 38" already exists.
+Variations "Torn Blue Jeans - 32" already exists.
+Variations "Torn Blue Jeans - 34" already exists.
+Variations "Torn Blue Jeans - 36" already exists.
+Variations "Torn Blue Jeans - 38" already exists.
+Variations "DNK Brown Shoes - Blue" already exists.
+Variations "DNK Brown Shoes - Red" already exists.
+Variations "DNK White Shoes with LED - Purple" already exists.
+Variations "DNK White Shoes with LED - Red" already exists.
+Failed to import "Contact form": Invalid post type wpcf7_contact_form
+Running post-processing for post 426
+Could not find the author for "Lemon Bag" (post #426)
+Post 426 was imported with author "harshadd", but could not be found
+Post 426 was marked for post-processing, but none was required.
+Running post-processing for post 427
+Could not find the author for "Bright Purse With Chain" (post #427)
+Post 427 was imported with author "harshadd", but could not be found
+Post 427 was marked for post-processing, but none was required.
+Running post-processing for post 428
+Could not find the author for "Black Over-the-shoulder Handbag" (post #428)
+Post 428 was imported with author "harshadd", but could not be found
+Post 428 was marked for post-processing, but none was required.
+Running post-processing for post 429
+Could not find the author for "Light Brown Clutch" (post #429)
+Post 429 was imported with author "harshadd", but could not be found
+Post 429 was marked for post-processing, but none was required.
+Running post-processing for post 430
+Could not find the author for "Blue Wind Breaker" (post #430)
+Post 430 was imported with author "harshadd", but could not be found
+Post 430 was marked for post-processing, but none was required.
+Running post-processing for post 431
+Could not find the author for "Green Wind Breaker" (post #431)
+Post 431 was imported with author "harshadd", but could not be found
+Post 431 was marked for post-processing, but none was required.
+Running post-processing for post 432
+Could not find the author for "Aqua Wind Breaker" (post #432)
+Post 432 was imported with author "harshadd", but could not be found
+Post 432 was marked for post-processing, but none was required.
+Running post-processing for post 433
+Could not find the author for "DNK Tshirt" (post #433)
+Post 433 was imported with author "harshadd", but could not be found
+Post 433 was marked for post-processing, but none was required.
+Running post-processing for post 434
+Could not find the author for "DNK Cross Tshirt" (post #434)
+Post 434 was imported with author "harshadd", but could not be found
+Post 434 was marked for post-processing, but none was required.
+Running post-processing for post 435
+Could not find the author for "Buddha Bracelet" (post #435)
+Post 435 was imported with author "harshadd", but could not be found
+Post 435 was marked for post-processing, but none was required.
+Running post-processing for post 436
+Could not find the author for "Anchor Bracelet" (post #436)
+Post 436 was imported with author "harshadd", but could not be found
+Post 436 was marked for post-processing, but none was required.
+Running post-processing for post 437
+Could not find the author for "Boho Bangle Bracelet" (post #437)
+Post 437 was imported with author "harshadd", but could not be found
+Post 437 was marked for post-processing, but none was required.
+Running post-processing for post 438
+Could not find the author for "White Top" (post #438)
+Post 438 was imported with author "harshadd", but could not be found
+Post 438 was marked for post-processing, but none was required.
+Running post-processing for post 439
+Could not find the author for "Yellow Basic Top" (post #439)
+Post 439 was imported with author "harshadd", but could not be found
+Post 439 was marked for post-processing, but none was required.
+Running post-processing for post 440
+Could not find the author for "White Sleevless Top" (post #440)
+Post 440 was imported with author "harshadd", but could not be found
+Post 440 was marked for post-processing, but none was required.
+Running post-processing for post 441
+Could not find the author for "White Basic Sleevless Top" (post #441)
+Post 441 was imported with author "harshadd", but could not be found
+Post 441 was marked for post-processing, but none was required.
+Running post-processing for post 442
+Could not find the author for "Brown basic Top" (post #442)
+Post 442 was imported with author "harshadd", but could not be found
+Post 442 was marked for post-processing, but none was required.
+Running post-processing for post 443
+Could not find the author for "Basic Blue Jeans" (post #443)
+Post 443 was imported with author "harshadd", but could not be found
+Post 443 was marked for post-processing, but none was required.
+Running post-processing for post 444
+Could not find the author for "Torn Blue Jeans" (post #444)
+Post 444 was imported with author "harshadd", but could not be found
+Post 444 was marked for post-processing, but none was required.
+Running post-processing for post 445
+Could not find the author for "Basic Gray Blue Jeans" (post #445)
+Post 445 was imported with author "harshadd", but could not be found
+Post 445 was marked for post-processing, but none was required.
+Running post-processing for post 446
+Could not find the author for "Blue Denim Jeans" (post #446)
+Post 446 was imported with author "harshadd", but could not be found
+Post 446 was marked for post-processing, but none was required.
+Running post-processing for post 447
+Could not find the author for "Black Jacket" (post #447)
+Post 447 was imported with author "harshadd", but could not be found
+Post 447 was marked for post-processing, but none was required.
+Running post-processing for post 448
+Could not find the author for "DNK Black Shoes Green LED" (post #448)
+Post 448 was imported with author "harshadd", but could not be found
+Post 448 was marked for post-processing, but none was required.
+Running post-processing for post 449
+Could not find the author for "Brown Blazer Jacket" (post #449)
+Post 449 was imported with author "harshadd", but could not be found
+Post 449 was marked for post-processing, but none was required.
+Running post-processing for post 450
+Could not find the author for "Basic Blue Jeans" (post #450)
+Post 450 was imported with author "harshadd", but could not be found
+Post 450 was marked for post-processing, but none was required.
+Running post-processing for post 451
+Could not find the author for "Black Washed Jeans" (post #451)
+Post 451 was imported with author "harshadd", but could not be found
+Post 451 was marked for post-processing, but none was required.
+Running post-processing for post 452
+Could not find the author for "Blue Denim Jeans" (post #452)
+Post 452 was imported with author "harshadd", but could not be found
+Post 452 was marked for post-processing, but none was required.
+Running post-processing for post 453
+Could not find the author for "Torn Blue Jeans" (post #453)
+Post 453 was imported with author "harshadd", but could not be found
+Post 453 was marked for post-processing, but none was required.
+Running post-processing for post 454
+Could not find the author for "DNK Blue Sport Shoes" (post #454)
+Post 454 was imported with author "harshadd", but could not be found
+Post 454 was marked for post-processing, but none was required.
+Running post-processing for post 455
+Could not find the author for "DNK Brown Shoes" (post #455)
+Post 455 was imported with author "harshadd", but could not be found
+Post 455 was marked for post-processing, but none was required.
+Running post-processing for post 456
+Could not find the author for "DNK Gray Shoes" (post #456)
+Post 456 was imported with author "harshadd", but could not be found
+Post 456 was marked for post-processing, but none was required.
+Running post-processing for post 457
+Could not find the author for "DNK White Shoes with LED" (post #457)
+Post 457 was imported with author "harshadd", but could not be found
+Post 457 was marked for post-processing, but none was required.
+Running post-processing for post 458
+Could not find the author for "GET15OFF" (post #458)
+Post 458 was imported with author "harshadd", but could not be found
+Post 458 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 05:16:19 UTC
+
+---
+
+4. Importing "Widgets"  - 05:16:24 UTC
+Sidebar: sidebar-1
+Widget: "Product Search" - Imported
+Widget: "Product Categories" - Imported
+Widget: "Filter Products by Price" - Imported
+Widget: "Filter Products by Attribute" - Imported
+Widget: "Filter Products by Attribute" - Imported
+Sidebar: advanced-footer-widget-1
+Widget: "Navigation Menu" - Imported
+Sidebar: advanced-footer-widget-2
+Widget: "Navigation Menu" - Imported
+Sidebar: advanced-footer-widget-3
+Widget: "Navigation Menu" - Imported
+Sidebar: advanced-footer-widget-4
+Widget: "Products" - Imported
+Sidebar: astra-woo-shop-sidebar
+Widget: "Product Search" - Imported
+Widget: "Product Categories" - Imported
+Widget: "Filter Products by Price" - Imported
+Widget: "Filter Products by Attribute" - Imported
+
+---
+
+Import Complete!  - 05:16:29 UTC
